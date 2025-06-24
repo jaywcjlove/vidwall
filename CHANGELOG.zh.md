@@ -11,4 +11,3 @@
 </a>
 
 ## [v1.0.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.0.0)
- 
