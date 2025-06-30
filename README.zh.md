@@ -32,3 +32,9 @@
 支持将 4K 视频设置为动态桌面壁纸，兼容 MP4 和 MOV 格式。只需将视频拖入应用界面，点击即可立即应用为桌面背景。
 
 为桌面增添生动趣味的动态壁纸效果！录制视频时设置动态背景，也能让画面更吸引人。
+
+<!--idoc:config:
+title: Vidwall
+keywords: 动态壁纸,视频壁纸,桌面壁纸,4K,MP4,MOV,Video Wallpaper,Dynamic Wallpaper,Desktop Wallpaper,4K Video,桌面美化,视频桌面,Vidwall
+description: 支持将 4K 视频设置为动态桌面壁纸，兼容 MP4 和 MOV 格式。
+-->
