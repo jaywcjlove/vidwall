@@ -10,4 +10,10 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.1.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.1.0)
+
+1. fix: corrupted video loading issue.
+2. feat: optimize icon loading.
+3. fix: status bar menu icon loading issue
+
 ## [v1.0.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.0.0)
