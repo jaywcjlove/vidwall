@@ -10,10 +10,15 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.2.0)
+
+1. 新增：在菜单栏中添加“刷新视频壁纸”菜单项
+2. 修复：修复设置界面的布局问题
+
 ## [v1.1.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.1.0)
 
-1. fix: corrupted video loading issue.
-2. feat: optimize icon loading.
-3. fix: status bar menu icon loading issue
+1. 修复：加载损坏视频的问题。
+2. 新增：优化图标加载。
+3. 修复：状态栏菜单图标加载问题
 
 ## [v1.0.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.0.0)
