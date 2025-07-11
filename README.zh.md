@@ -33,6 +33,15 @@
 
 为桌面增添生动趣味的动态壁纸效果！录制视频时设置动态背景，也能让画面更吸引人。
 
+我整理了一些优质的视频壁纸网站，点击链接即可下载。如果你有更好的推荐，欢迎通过邮件或提交 issue 与我分享：
+
+- https://www.desktophut.com
+- https://motionbgs.com
+- https://moewalls.com
+- https://mylivewallpapers.com
+- https://wallsflow.com
+
+
 <!--idoc:config:
 title: Vidwall
 keywords: 动态壁纸,视频壁纸,桌面壁纸,4K,MP4,MOV,Video Wallpaper,Dynamic Wallpaper,Desktop Wallpaper,4K Video,桌面美化,视频桌面,Vidwall
