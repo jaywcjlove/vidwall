@@ -10,6 +10,12 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.3.0)
+
+1. 修复：修复反馈网址不正确的问题。
+2. 功能：添加视频资源下载链接。
+3. 功能：使设置窗口可调整大小。
+
 ## [v1.2.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.2.0)
 
 1. 新增：在菜单栏中添加“刷新视频壁纸”菜单项

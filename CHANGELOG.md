@@ -10,6 +10,12 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.3.0)
+
+1. fix: Fix incorrect feedback URL.
+2. feat: Add video resource download URL.
+3. feat: Make the settings window resizable.
+
 ## [v1.2.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.2.0)
 
 1. feat: Add "Refresh Video Wallpaper" menu item to menu bar
