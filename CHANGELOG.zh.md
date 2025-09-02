@@ -10,6 +10,12 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.4.0)
+
+1. perf: 优化批量导入性能
+2. feat: 新增清理并重新添加记录的功能
+3. feat: 新增下载页面的推荐站点区域
+
 ## [v1.3.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.3.0)
 
 1. 修复：修复反馈网址不正确的问题。

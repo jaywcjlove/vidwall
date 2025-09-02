@@ -10,6 +10,12 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.4.0)
+
+1. perf: improve bulk import performance
+2. feat: add feature to clear and re-add records
+3. feat: add recommended sites section to download page
+
 ## [v1.3.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.3.0)
 
 1. fix: Fix incorrect feedback URL.
