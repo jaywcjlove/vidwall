@@ -10,6 +10,15 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.5.0)
+
+1. feat: 新增对 macOS 26 的支持并修复相关问题
+2. feat: 更新应用 Logo
+3. perf: 优化图标渲染性能
+4. perf: 改进图片渲染效果
+5. perf: 优化点击时的播放卡顿问题
+6. ui: 优化拖拽样式
+
 ## [v1.4.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.4.0)
 
 1. perf: 优化批量导入性能

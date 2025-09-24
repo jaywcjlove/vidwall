@@ -10,6 +10,15 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.5.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.5.0)
+
+1. feat: add support for macOS 26 and fix related issues
+2. feat: update logo
+3. perf: optimize icon rendering performance
+4. perf: improve image rendering quality
+5. perf: optimize playback stutter on click
+6. ui: improve drag-and-drop style
+
 ## [v1.4.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.4.0)
 
 1. perf: improve bulk import performance
