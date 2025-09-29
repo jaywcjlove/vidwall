@@ -10,6 +10,11 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.6.0)
+
+1. feat: add "Set as Screensaver" option
+2. fix: wallpaper hidden by Hide Others issue
+
 ## [v1.5.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.5.0)
 
 1. feat: add support for macOS 26 and fix related issues

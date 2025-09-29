@@ -10,6 +10,11 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.6.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.6.0)
+
+1. feat: 添加“设为屏保”选项
+2. fix: 修复在“隐藏其他”情况下壁纸被隐藏的问题
+
 ## [v1.5.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.5.0)
 
 1. feat: 新增对 macOS 26 的支持并修复相关问题
