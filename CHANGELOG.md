@@ -10,6 +10,10 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.7.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.7.0)
+
+1. perf: optimize dynamic screensaver settings
+
 ## [v1.6.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.6.0)
 
 1. feat: add "Set as Screensaver" option
