@@ -10,6 +10,12 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.9.0)
+
+1. fix: 修复加载文件时未锁定菜单的问题。
+2. perf: 优化列表展示性能。
+3. perf: 优化视频淡入淡出设置。
+
 ## [v1.8.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.8.0)
 
 1. feat：添加状态栏快捷菜单

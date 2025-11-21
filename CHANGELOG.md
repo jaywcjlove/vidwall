@@ -10,6 +10,12 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.9.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.9.0)
+
+1. fix: fix issue where the menu was not locked when loading files.
+2. perf: optimize list display performance.
+3. perf: optimize video fade-in and fade-out settings
+
 ## [v1.8.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.8.0)
 
 1. feat: add quick menu to status bar
