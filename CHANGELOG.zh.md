@@ -10,6 +10,14 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.8.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.8.0)
+
+1. feat：添加状态栏快捷菜单
+2. feat：添加视频文件命令菜单
+3. feat：添加启用自动淡出功能
+4. pref：优化视频循环播放
+5. ui：修改弹出对话框样式
+
 ## [v1.7.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.7.0)
 
 1. perf: 优化动态屏保设置
