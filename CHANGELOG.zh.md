@@ -10,6 +10,11 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.11.0)
+
+1. feat: 支持在文件列表中通过拖拽进行排序
+2. fix: 修复水印显示问题
+
 ## [v1.9.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.9.0)
 
 1. fix: 修复加载文件时未锁定菜单的问题。
