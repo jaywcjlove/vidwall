@@ -48,7 +48,7 @@ jobs:
           menus:
             Home: index.html
             Apps: https://wangchujiang.com/#/app
-            Vidwall Hub: https://wangchujiang.com/mousio-hint/
+            Vidwall Hub: https://wangchujiang.com/vidwall-hub/
             About: https://wangchujiang.com/#/about
           sideEffectFiles:
             - README.md
