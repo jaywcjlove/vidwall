@@ -10,11 +10,6 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
-## [v1.11.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.11.0)
-
-1. feat: add screensaver setting option.
-2. feat: show large preview images in list
-
 ## [v1.10.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.10.0)
 
 1. feat: enable drag-and-drop reordering in file list.
