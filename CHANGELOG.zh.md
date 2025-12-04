@@ -10,6 +10,11 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.11.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.11.0)
+
+1. feat: 添加屏保设置选项。
+2. feat: 在列表中显示大预览图。
+
 ## [v1.10.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.10.0)
 
 1. feat: 支持在文件列表中通过拖拽进行排序
