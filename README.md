@@ -17,7 +17,7 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/Vidwall/6747587746" title="Vidwall for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6747587746" title="Vidwall for macOS">
       <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
