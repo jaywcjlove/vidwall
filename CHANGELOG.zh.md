@@ -10,6 +10,13 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.12.0) 
+
+1. perf: 优化侧边栏禁用隐藏行为
+2. fix: 修复国际化显示错误
+3. fix: 解决付费解锁验证错误
+4. fix: 修复本地化问题
+
 ## [v1.11.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.11.0) 
 
 1. feat: 添加屏保设置选项。

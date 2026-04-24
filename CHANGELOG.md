@@ -10,6 +10,13 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.12.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.12.0) 
+
+1. perf: Optimize sidebar disable-hide behavior
+2. fix: Correct internationalization display error
+3. fix: Resolve paid unlock verification issue
+4. fix: Fix localization issues
+
 ## [v1.11.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.11.0) 
 
 1. feat: add screensaver setting option.
