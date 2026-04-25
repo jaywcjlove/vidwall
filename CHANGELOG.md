@@ -12,10 +12,10 @@ Changelog
 
 ## [v1.13.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.13.0) 
 
-1. feat: 新增播放列表循环控制，并优化设置中的壁纸视图
-2. fix: 调整壁纸设置相关交互
-3. fix: 修复壁纸播放恢复及视频列表循环问题
-4. refactor: 整理设置页面和状态栏界面
+1. feat: gate playlist loop and optimize settings wallpaper view 
+2. fix: adjust wallpaper settings interactions 
+3. fix: restore wallpaper playback and video list looping 
+4. refactor: tidy settings and status bar ui 
 
 ## [v1.12.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.12.0) 
 
