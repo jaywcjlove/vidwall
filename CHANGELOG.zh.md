@@ -10,6 +10,13 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.13.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.13.0) 
+
+1. feat: gate playlist loop and optimize settings wallpaper view 
+2. fix: adjust wallpaper settings interactions 
+3. fix: restore wallpaper playback and video list looping 
+4. refactor: tidy settings and status bar ui 
+
 ## [v1.12.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.12.0) 
 
 1. perf: 优化侧边栏禁用隐藏行为
