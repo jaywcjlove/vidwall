@@ -10,6 +10,13 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.14.0) 
+
+1. feat: Add localized About menu entry
+2. feat: Add more international languages
+3. fix: Improve localization and menu layout for My Apps
+4. chore: Update dependencies and About settings
+
 ## [v1.13.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.13.0) 
 
 1. feat: gate playlist loop and optimize settings wallpaper view 

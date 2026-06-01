@@ -10,6 +10,13 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.14.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.14.0) 
+
+1. feat: 添加本地化的关于菜单项
+2. feat: 新增更多国际化语言
+3. fix: 优化「我的应用」本地化及菜单布局
+4. chore: 更新依赖与关于页面配置
+
 ## [v1.13.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.13.0) 
 
 1. feat: 新增播放列表循环控制，并优化设置中的壁纸视图
