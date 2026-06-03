@@ -10,6 +10,11 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.15.0) 
+
+1. 新增：添加画面自适应铺满屏幕选项
+2. 新增：增加壁纸选中删除操作功能
+
 ## [v1.14.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.14.0) 
 
 1. feat: 添加本地化的关于菜单项

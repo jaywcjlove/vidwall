@@ -10,6 +10,11 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.15.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.15.0) 
+
+1. feat: add adaptive fill screen option.
+2. feat: add wallpaper selection deletion controls.
+
 ## [v1.14.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.14.0) 
 
 1. feat: Add localized About menu entry
