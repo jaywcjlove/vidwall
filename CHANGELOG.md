@@ -10,6 +10,15 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.16.0) 
+
+1. feat: add video list loop toggle to General
+2. feat: add multi-camera picker and settings toggle
+3. feat: add camera desktop wallpaper with permission flow
+4. feat: update download recommendations.
+5. feat: Add it/ru language.
+6. fix: explicitly show NSMenuItem symbol images on macOS 27+.
+
 ## [v1.15.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.15.0) 
 
 1. feat: add adaptive fill screen option.

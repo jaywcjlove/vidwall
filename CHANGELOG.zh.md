@@ -10,6 +10,15 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.16.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.16.0) 
+
+1. feat: 在常规中添加视频列表循环开关
+2. feat: 添加多摄像头选择器与设置开关
+3. feat: 添加摄像头桌面壁纸功能及权限流程
+4. feat: 更新下载推荐
+5. feat: 添加意大利语/俄语语言支持
+6. fix: 在 macOS 27+ 上显式显示 NSMenuItem 符号图像
+
 ## [v1.15.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.15.0) 
 
 1. 新增：添加画面自适应铺满屏幕选项
