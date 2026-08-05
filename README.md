@@ -25,6 +25,8 @@
 
 ![](./assets/vidwall.gif)
 
+![](./assets/vidwall2.gif)
+
 ![](./assets/screenshots-1.png)
 
 ![](./assets/screenshots-2.png)
