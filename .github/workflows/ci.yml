@@ -42,9 +42,25 @@ jobs:
           favicon: assets/logo.png
           logo: ./assets/logo.png
           openSource: https://github.com/jaywcjlove/vidwall
+          homepage: https://wangchujiang.com/vidwall/
           tocs: false
           element: 
             wrapper: style=max-width:720px;
+          meta:
+            - <meta name="author" content="Kenny Wong">
+            - <meta property="og:site_name" content="<%= site %>">
+            - <meta property="og:url" content="<%=homepage%><%=RESOLVE_PATH%>">
+            - <meta property="og:image" content="<%=homepage%>assets/social-preview.jpg">
+            - <meta property="og:type" content="application">
+            - <meta property="og:title" content="<%= site %>">
+            - <meta property="og:description" content="<%= description%>">
+            - <meta property="twitter:image:src" content="<%=homepage%>assets/social-preview.jpg">
+            - <meta property="twitter:site" content="@jaywcjlove">
+            - <meta property="twitter:creator" content="jaywcjlove">
+            - <meta property="twitter:card" content="summary_large_image">
+            - <meta property="twitter:title" content="<%= site %> - <%= description%>">
+            - <meta property="twitter:description" content="<%= description%>">
+            - <meta name="apple-itunes-app" content="app-id=6747587746">
           menus:
             Home: index.html
             Apps: https://wangchujiang.com/#/app
@@ -55,12 +71,6 @@ jobs:
             - README.zh.md
             - CHANGELOG.md
             - CHANGELOG.zh.md
-            - feedback.md
-            - feedback.zh.md
-            - terms-of-service.md
-            - terms-of-service.zh.md
-            - privacy-policy.md
-            - privacy-policy.zh.md
           footer: |
             <a href="https://wangchujiang.com/#/app" target="_blank">App</a> • 
             <a href="https://wangchujiang.com/#/projects" target="_blank">Projects</a> • 
@@ -70,6 +80,7 @@ jobs:
           EOF
       - run: npm install idoc@1 -g
       - run: idoc
+      - run: cp -rp assets/social-preview.jpg dist/assets/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
