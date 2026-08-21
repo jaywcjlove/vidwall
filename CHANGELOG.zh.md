@@ -10,6 +10,12 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.17.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.17.0) 
+
+1. feat: 增加多文件导入进度弹窗提示
+2. perf: 设置列表改用复用表格组件，提升滚动性能
+3. style: 优化侧边栏图标细节
+
 ## [v1.16.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.16.0) 
 
 1. feat: 在常规中添加视频列表循环开关
