@@ -10,6 +10,11 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.18.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.18.0) 
+
+1. feat: add web webpage wallpaper.
+2. perf: optimize status bar loading.
+
 ## [v1.17.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.17.0) 
 
 1. feat(wallpaper): Show progress overlay for multi‑file wallpaper import

@@ -10,6 +10,11 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.18.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.18.0) 
+
+1. feat: 添加网页壁纸功能
+2. perf: 优化状态栏加载
+
 ## [v1.17.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.17.0) 
 
 1. feat: 增加多文件导入进度弹窗提示
