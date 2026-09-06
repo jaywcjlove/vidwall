@@ -1,9 +1,9 @@
-https://wangchujiang.com/vidwall/feedback.html
 https://wangchujiang.com/vidwall/feedback.zh.html
+https://wangchujiang.com/vidwall/feedback.html
 https://wangchujiang.com/vidwall/privacy-policy.html
 https://wangchujiang.com/vidwall/privacy-policy.zh.html
-https://wangchujiang.com/vidwall/terms-of-service.zh.html
 https://wangchujiang.com/vidwall/terms-of-service.html
+https://wangchujiang.com/vidwall/terms-of-service.zh.html
 https://wangchujiang.com/vidwall/index.html
 https://wangchujiang.com/vidwall/index.zh.html
 https://wangchujiang.com/vidwall/CHANGELOG.html
