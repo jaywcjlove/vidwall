@@ -31,9 +31,9 @@
 
 ![](./assets/screenshots-2.png)
 
-Set stunning 4K videos as your dynamic desktop wallpaper — supports MP4 and MOV formats. Simply drag and drop a video into the app and apply it with a single click.
+Supports setting 4K videos as dynamic desktop wallpapers, compatible with MP4 and MOV formats. Simply drag‑and‑drop videos into the app interface and click to instantly apply them as your desktop background.
 
-Bring your desktop to life with animated wallpapers! Perfect for adding visual flair to your workspace or recording videos with an eye-catching background.
+You can also set camera feed or any webpage as your desktop wallpaper. Bring vivid and fun dynamic effects to your desktop. Using dynamic backgrounds while recording videos can also make your footage more eye‑catching.
 
 Here are some high-quality video wallpaper websites — feel free to download from the links below. If you have other great recommendations, feel free to share them via email or by opening an issue:
 
