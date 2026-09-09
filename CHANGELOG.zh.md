@@ -10,6 +10,12 @@
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.19.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.19.0) 
+
+1. feat: Web 壁纸支持指定窗口显示
+2. feat: 设置侧边栏增加快捷启用/禁用选项
+3. chore: 更新应用图标
+
 ## [v1.18.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.18.0) 
 
 1. feat: 添加网页壁纸功能

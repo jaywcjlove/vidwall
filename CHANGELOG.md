@@ -10,6 +10,12 @@ Changelog
 <img alt="Vidwall AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.19.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.19.0) 
+
+1. feat: support displaying web wallpaper on specified windows.
+2. feat: add quick enable‑disable options in settings sidebar.
+3. chore: Update AppIcon.
+
 ## [v1.18.0](https://github.com/jaywcjlove/vidwall/releases/tag/v1.18.0) 
 
 1. feat: add web webpage wallpaper.
